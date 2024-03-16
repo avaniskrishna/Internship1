@@ -9,6 +9,6 @@
 🎓 A heartfelt thank you to Jain (Deemed-to-be University) and Futurense Technologies for providing this incredible opportunity! 🌟 I'm thrilled to embark on this journey of skill advancement in this dynamic field. Gratitude for the chance to learn and evolve alongside such esteemed institutions. Excited to maximize this experience to its fullest potential!
 
 🌐 Stay ahead of the curve and immerse yourself in the captivating world of Netflix data visualization with Python today! 💡 Whether you're a data aficionado or simply love a good Netflix binge, let's explore my discoveries together and geek out! 🤩
-GitHub Link: https://lnkd.in/gQm3puHv
+GitHub Link:[ https://github.com/avaniskrishna/Internship1/blob/week3-python/Data%20Analysis%20of%20Netflix_14_03.ipynb ]
 
-#Netflix #NetflixDataAnalysis #Python #NetflixInsights #UnleashTheData #BingeWatchersUnite #Internship #MiniProject
+#Netflix #NetflixDataAnalysis #Python #NetflixInsights #UnleashTheData #BingeWatchersUnite #Internship #Min****iProject
