@@ -11,4 +11,4 @@
 🌐 Stay ahead of the curve and immerse yourself in the captivating world of Netflix data visualization with Python today! 💡 Whether you're a data aficionado or simply love a good Netflix binge, let's explore my discoveries together and geek out! 🤩
 GitHub Link:[ https://github.com/avaniskrishna/Internship1/blob/week3-python/Data%20Analysis%20of%20Netflix_14_03.ipynb ]
 
-#Netflix #NetflixDataAnalysis #Python #NetflixInsights #UnleashTheData #BingeWatchersUnite #Internship #Min****iProject
+#Netflix #NetflixDataAnalysis #Python #NetflixInsights #UnleashTheData #BingeWatchersUnite #Internship #MiniProject
